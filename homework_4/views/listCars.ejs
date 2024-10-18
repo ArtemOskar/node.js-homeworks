@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Сприсок участников</title>
+  </head>
+  <body>
+    <h1>Сприсок участников</h1>
+    <%cars.forEach(car =>{%>
+    <div>
+      <a href="/car/<%=car.id%>"><%=car.model%></a>
+      <span><%=car.year%></span>
+      <span><%=car.nummer%></span>
+      <span><%=car.ovner%></span>
+    </div>
+    <%})%>
+    <a href="/">На главную</a>
+  </body>
+</html>

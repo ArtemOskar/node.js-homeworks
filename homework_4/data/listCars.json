@@ -1,0 +1,16 @@
+[
+  {
+    "id": 765,
+    "model": "Audi",
+    "year": 2023,
+    "nummer": "AI9999BF",
+    "ovner": "Ivan"
+  },
+  {
+    "id": 555,
+    "model": "Opel",
+    "year": 2021,
+    "nummer": "AI4455GG",
+    "ovner": "Kolya"
+  }
+]
