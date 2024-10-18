@@ -12,5 +12,12 @@
     "year": 2021,
     "nummer": "AI4455GG",
     "ovner": "Kolya"
+  },
+  {
+    "id": 541,
+    "model": "VW",
+    "year": 2024,
+    "nummer": "M4455GVV",
+    "ovner": "Victor"
   }
 ]
